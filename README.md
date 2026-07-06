@@ -173,11 +173,7 @@
 </details>
 
 
-
-<p align="left">
-  <a href="https://github.com/whoafridi"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=whoafridi&layout=compact&theme=radical" />
-</a>
-</p>
+ 
 
 
 <!--

@@ -1,4 +1,4 @@
-<h1>Hi There, I am <a href="http://whoafridi.github.io/">Rafiuzzaman Bhuiyan</a></h1>
+<h1>Hi There, I am Rafiuzzaman Bhuiyan</a> </h1>
 
 <a href="https://sites.google.com/diu.edu.bd/whoafridi/home"><img src="https://user-images.githubusercontent.com/35966401/94904187-c1fedc00-04bc-11eb-83d8-a4d18d18607c.png" width="42"/></a>
 <a href="https://www.facebook.com/whoafridi/"><img src="https://user-images.githubusercontent.com/35966401/94904279-e5c22200-04bc-11eb-98fe-19d3a9549ee1.png" width="40" /></a>

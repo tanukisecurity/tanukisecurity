@@ -10,7 +10,6 @@
 <a href="mailto:afridirk10@gmail.com"><img src="https://github.com/lucky630/lucky630/blob/master/images/gmail_logo.png" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCKGVmAFzY1-mLLA9zE5veHw/featured"><img src="https://github.com/lucky630/lucky630/blob/master/images/youtube_logo.png" width="70" /></a>
 
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=whoafridi" alt="afridi" /> </p>
 
 ## Here are some ideas about me
 
